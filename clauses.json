@@ -1,0 +1,14 @@
+[
+  {
+    "clause": "9.1.1",
+    "description": "Seguimiento, medición, análisis y evaluación del desempeño.",
+    "csr": {
+      "GM": "Requiere análisis estadístico mensual.",
+      "VW": "Debe incluir auditorías de proceso.",
+      "Nissan": "Reportes semanales de calidad.",
+      "Stellantis": "Uso obligatorio de MPA.",
+      "Navistar": "Validación de características especiales.",
+      "Daimler": "Evaluación de proveedores críticos."
+    }
+  }
+]
